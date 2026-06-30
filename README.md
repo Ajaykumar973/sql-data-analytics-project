@@ -20,6 +20,7 @@ This repository contains well-structured SQL queries that demonstrate best pract
 ---
 
 ## 📁 Repository Structure
+
 sql-analytics-toolkit/
 │
 ├── 01_database_exploration/
@@ -51,6 +52,7 @@ sql-analytics-toolkit/
     ├── executive_dashboard.sql
     ├── business_summary.sql
     └── performance_reports.sql
+
 ---
 
 ## 🚀 Key Features
@@ -85,22 +87,6 @@ Ready-to-use queries for dashboards and executive reports.
 
 ---
 
-## 🧠 Best Practices Followed
-
-- Use of window functions (`OVER`, `PARTITION BY`)  
-- Efficient joins and filtering  
-- Readable formatting and commenting  
-- Scalable query patterns  
-- Avoidance of unnecessary subqueries  
-
----
-
-## 🛠️ Requirements
-
-- MySQL / PostgreSQL / SQL Server / Oracle  
-  *(minor syntax changes may be required depending on DBMS)*
-
----
 
 ## 📈 Use Cases
 
@@ -114,4 +100,4 @@ Ready-to-use queries for dashboards and executive reports.
 
 ## 👤 Author
 
-**Ajay kumar**  
+**Ajay kumar**
